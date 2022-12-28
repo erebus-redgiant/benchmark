@@ -57,8 +57,3 @@ After decompression, the folder `benchmark` contains two subfolders.
   - Each contract has already been compiled and flattened.
   - The contract runtime bytecode is in `deployedBytecode.bin` file, which is analyzed by tools that analyze bytecode.
   - The flattened source code is in `flattened.sol` file, which is analyzed by tools that analyze source code.
-
-# Disclaimer
-
-This repository contains the dataset and benchmark constructed in the #53 submission of [ICSE 2023](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track).
-It is meant to meet the [open science policy](https://conf.researchr.org/track/icse-2023/icse-2023-open-science-policies) of ICSE 2023.
